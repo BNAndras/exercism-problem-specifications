@@ -134,7 +134,7 @@
     {
       "uuid": "46b46e5b-24da-4180-bfe2-2ef30b39d0d0",
       "description": "93 is XCIII",
-      "comments": ["Because 90 is 100 - 10"],
+      "comments": ["Because 93 is (100 - 10) + 3"],
       "property": "roman",
       "input": {
         "number": 93
